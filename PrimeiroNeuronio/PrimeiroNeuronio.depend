@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521133761 source:c:\users\hierobartholodecarva\documents\ibm\learn & practice\faculdade\ai\primeironeuronio\main.cpp
+	<iostream>
+	<Neuronio.h>
+
+1521134057 source:c:\users\hierobartholodecarva\documents\ibm\learn & practice\faculdade\ai\primeironeuronio\src\neuronio.cpp
+	"Neuronio.h"
+	<iostream>
+
+1521134089 c:\users\hierobartholodecarva\documents\ibm\learn & practice\faculdade\ai\primeironeuronio\include\neuronio.h
+
