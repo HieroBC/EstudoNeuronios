@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1521135245 source:c:\users\hierobartholodecarva\documents\ibm\learn & practice\faculdade\ai\primeironeuronio\main.cpp
+	<iostream>
+	<Neuronio.h>
+
+1521134385 source:c:\users\hierobartholodecarva\documents\ibm\learn & practice\faculdade\ai\primeironeuronio\src\neuronio.cpp
+	"Neuronio.h"
+	<iostream>
+
+1521151141 c:\users\hierobartholodecarva\documents\ibm\learn & practice\faculdade\ai\primeironeuronio\include\neuronio.h
+
+1521135245 source:c:\users\hierobartholodecarva\documents\ibm\learn & practice\faculdade\ai\reconhecernumeros\main.cpp
+	<iostream>
+	<Neuronio.h>
+
+1521675233 c:\users\hierobartholodecarva\documents\ibm\learn & practice\faculdade\ai\reconhecernumeros\include\neuronio.h
+
+1521134385 source:c:\users\hierobartholodecarva\documents\ibm\learn & practice\faculdade\ai\reconhecernumeros\src\neuronio.cpp
+	"Neuronio.h"
+	<iostream>
+
